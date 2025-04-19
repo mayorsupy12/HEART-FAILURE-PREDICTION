@@ -1,0 +1,12 @@
+LIST OF DEPENDENCIES
+Pandas 
+numpy 
+matplotlib 
+seaborn
+scikit-learn
+torch
+gradio
+
+
+
+
